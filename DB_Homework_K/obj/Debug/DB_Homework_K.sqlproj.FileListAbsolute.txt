@@ -1,0 +1,10 @@
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\bin\Debug\DB_Homework_K.dacpac
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\bin\Debug\DB_Homework_K.dll
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\bin\Debug\DB_Homework_K.pdb
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\obj\Debug\DB_Homework_K.sqlprojAssemblyReference.cache
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\obj\Debug\DB_Homework_K.dll
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\obj\Debug\DB_Homework_K.pdb
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\obj\Debug\Model.xml
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\obj\Debug\refactor.xml
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\obj\Debug\postdeploy.sql
+C:\Users\Demian\source\repos\DB_Homework_K\DB_Homework_K\obj\Debug\predeploy.sql
